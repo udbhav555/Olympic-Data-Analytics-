@@ -8,6 +8,10 @@ Olympic Medals  Data Breakdown (1960 - 2020)
 
 To transform complex Olympic data into an intuitive, exploration-ready dashboard that empowers users to discover performance patterns, national strengths, and historical shifts in the modern Olympic movement.
 
+## Dashboard View
+![Screenshot 2025-04-03 162113](https://github.com/user-attachments/assets/d9d779a2-568d-4a6d-bba7-9b2273270a26)
+
+
 ## Dataset Used
 
 - <a href="https://github.com/udbhav555/Olympic-Data-Analytics-/blob/main/Paralympics%20Dataset%20cleaned.xlsx">Dataset</a>
@@ -62,9 +66,7 @@ To transform complex Olympic data into an intuitive, exploration-ready dashboard
  - Bar chart displaying medals by sport
  - Summary statistics with highlighted metrics
 
-## Dashboard Screenshot
 
-![Screenshot 2025-04-03 162113](https://github.com/user-attachments/assets/d9d779a2-568d-4a6d-bba7-9b2273270a26)
 
 ## Interactivity & Usability
 
